@@ -7,7 +7,7 @@
 
 - Focado em **ReactJS**
 
-- Estou aprendendo **Golang**
+- Estou aprendendo **React Native**
 
 - Pergunte me sobre **ReactJS**
 
