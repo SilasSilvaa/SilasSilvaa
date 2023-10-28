@@ -3,11 +3,9 @@
 
 - Trabalho atualmente no **Universo Online (Grupo UOL)**
 
-- Procuro colaborar em **Projetos Front-end e Back-end**
+- Procuro colaborar em **Projetos Front-end**
 
 - Focado em **ReactJS**
-
-- Estou aprendendo **React Native**
 
 - Pergunte me sobre **ReactJS**
 
