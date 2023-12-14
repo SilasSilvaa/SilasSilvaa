@@ -7,9 +7,6 @@
 
 - Focado em **ReactJS**
 
-- Pergunte me sobre **ReactJS**
-
-
 <h3 align="left">Linguagens e bibliotecas: </h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
