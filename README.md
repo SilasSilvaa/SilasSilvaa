@@ -1,11 +1,11 @@
 <h1>Olá, Eu sou o Silas</h1>
-<h3>Sou desenvolvedor Front-end</h3>
+<h3>Sou desenvolvedor Full Stack</h3>
 
 - Trabalho atualmente no **Universo Online (Grupo UOL)**
 
-- Procuro colaborar em **Projetos Front-end**
+- Procuro colaborar em **Projetos Front-end/Back-end**
 
-- Focado em **ReactJS**
+- Focado em **ReactJS e Java**
 
 <h3 align="left">Linguagens e bibliotecas: </h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
