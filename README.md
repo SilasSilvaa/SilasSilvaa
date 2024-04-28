@@ -1,11 +1,5 @@
-<h1>Olá, Eu sou o Silas</h1>
-<h3>Sou desenvolvedor Full Stack</h3>
-
-- Trabalho atualmente no **Universo Online (Grupo UOL)**
-
-- Procuro colaborar em **Projetos Front-end/Back-end**
-
-- **ReactJS, Java, C#, Typescript**
+- **Backend Developer**
+- **Java, C#, Typescript**
 
 <h3 align="left">Social:</h3>
 <p align="left">
