@@ -1,5 +1,5 @@
 - **Backend Developer**
-- **C#, .NET, Typescript**
+- **C#, .NET, Java, Spring Boot Typescript**
 
 <h3 align="left">Social:</h3>
 <p align="left">
